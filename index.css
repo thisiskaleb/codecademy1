@@ -1,0 +1,45 @@
+* {
+    font-family: 'Montserrat';
+}
+
+body { 
+    background-color: rgba(51, 174, 255, 0.3);
+}
+
+h1 {
+    text-align: center;
+    width: 100;
+}
+
+h2 {
+    text-align: center;
+    width: 100;
+}
+
+table, thead, tbody, td, tr, th {
+    border: 1px solid;
+    padding: 2px;
+    border-collapse: collapse;
+    font-size: 12px;
+}
+
+table {
+    margin: auto;
+    width: 70%;
+}
+
+thead{
+    text-align: left;
+}
+
+.element {
+    font-family: monospace;
+    background-color: rgba(204, 255, 52, .25);
+    padding: 1px;
+}
+
+thead {
+    font-weight: bold;
+    background-color: rgba(5, 14, 2, 0.8);
+    color: white;
+}
